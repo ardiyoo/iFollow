@@ -34,4 +34,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## FSOCIETY-DIGITAL
-Drop a follow on [Instagram]("https://instagram.com/fsocietydigital") or check our Website [FSOCIETY]("https://fsociety.ga")
+Drop a follow on [Instagram: fsocietydigital]
+
+## Design
+I would like to thank xncee on Github for the amazing idea design for the tool
