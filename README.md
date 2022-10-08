@@ -4,7 +4,7 @@ iFollow is a Python writen program for Instagram to follow a specific user from 
 
 ## Installation
 
-Download the Files from Github, after you download files extract them to a folder, go to folder and make the given file on same directory as iFollow.exe
+Make the given file on same directory as iFollow.exe
 
 ```bash
 Accounts.txt
