@@ -23,6 +23,9 @@ fsociety:123
 
 # if you have any debuggable tools like HttpDebugger, DnSpy, IlSpy, BurpSuite etc..
 the program will exit()
+
+# After you complete all step's, you are good to go.
+Now run the iFollow Exe
 ```
 
 ## Contributing
