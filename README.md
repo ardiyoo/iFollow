@@ -1,4 +1,4 @@
-# iFollowU
+# iFollow
 
 iFollow is a Python writen program for Instagram to follow a specific user from multiple accounts.
 
