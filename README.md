@@ -36,5 +36,3 @@ Please make sure to update tests as appropriate.
 ## FSOCIETY-DIGITAL
 Drop a follow on [Instagram: fsocietydigital]
 
-## Design
-I would like to thank xncee on Github for the amazing idea design for the tool
