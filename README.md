@@ -4,28 +4,26 @@ iFollow is a Python writen program for Instagram to follow a specific user from 
 
 ## Installation
 
-Make the given file on same directory as iFollow.exe
+Put accounts on given file on format username:password
 
 ```bash
 Accounts.txt
 ```
 
-## Usage
+## What's New On v2.0
 
 ```python
-Go to Accounts.txt and put your accounts
 
-# example
-YourUsername:YourPassowrd
-
-# let's say i have username fsociety and passowrd 123, put it on Accounts.txt as:
-fsociety:123
+Added the followings features,
+1. The Accounts.txt file now is created auto,
+2. The bug that was showing " Try again later " is fixed,
+3. The sessionid now come's from your Accounts on text file and it does scrape the target info from your account,
+4. Added banner and added some feature's like a ReadME file if i want to send a message to all tool users.
+5. Added if i the version change's you can't use the tool, only the latest version.
 
 # if you have any debuggable tools like HttpDebugger, DnSpy, IlSpy, BurpSuite etc..
 the program will exit()
 
-# After you complete all step's, you are good to go.
-Now run the iFollow Exe
 ```
 
 ## Contributing
