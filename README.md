@@ -14,7 +14,6 @@ Accounts.txt
 
 ```python
 
-Added the followings features,
 1. The bug that was exiting the tool after followed from one account is FIXED,
 2. Made the tool faster
 3. Added some sleep between login accounts to avoid bann.,
