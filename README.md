@@ -36,6 +36,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-## FSOCIETY-DIGITAL
-Drop a follow on [Instagram: fsocietydigital]
+## Maintainers
 
+iFollow is maintained with :heart: by:
+
+- **@FSOCIETY-DIGITAL** or 
+- **@ARDIAN SYLA**
