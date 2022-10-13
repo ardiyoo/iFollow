@@ -15,14 +15,9 @@ Accounts.txt
 ```python
 
 Added the followings features,
-1. The Accounts.txt file now is created auto,
-2. The bug that was showing " Try again later " is fixed,
-3. The sessionid now come's from your Accounts on text file and it does scrape the target info from your account,
-4. Added banner and added some feature's like a ReadME file if i want to send a message to all tool users.
-5. Added if i the version change's you can't use the tool, only the latest version.
-6. The bug that was exiting the tool after followed from one account is FIXED,
-7. Made the tool faster
-8. Added some sleep between login accounts to avoid bann.,
+1. The bug that was exiting the tool after followed from one account is FIXED,
+2. Made the tool faster
+3. Added some sleep between login accounts to avoid bann.,
 Everything Cool :)
 # if you have any debuggable tools like HttpDebugger, DnSpy, IlSpy, BurpSuite etc..
 the program will exit()
