@@ -4,4 +4,4 @@ iFollow is being recoded into c# language to be more stable and faster, also wil
 ALSO THE ALGORITHM OF TOOL WILL CHANGE COMPLETLY
 STAY TUNED
 
-OTA RELEASE 25 OF THIS MONTH
+ETA RELEASE 25 OF THIS MONTH
