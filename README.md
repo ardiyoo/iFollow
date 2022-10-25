@@ -36,9 +36,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-## Maintainers
+## Soon...
 
-iFollow is maintained with :heart: by:
-
-- **@FSOCIETY-DIGITAL** or 
-- **@ARDIAN SYLA**
+iFollow is being coded in c# with GUI from gyxi :heart: 
+So much new good things comming, stay tuned :heart:
