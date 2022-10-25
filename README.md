@@ -38,5 +38,5 @@ Please make sure to update tests as appropriate.
 
 ## Soon...
 
-iFollow is being coded in c# with GUI from gyxi \n
+iFollow is being coded in c# with GUI from ```python gyxi ```
 So much new good things comming, stay tuned :heart:
