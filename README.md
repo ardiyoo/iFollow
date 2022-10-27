@@ -27,6 +27,9 @@ the program will exit()
 ```This is the c# version with Graphical User Interface below.```
 ![iFollow C#](https://user-images.githubusercontent.com/113261722/198407879-260ab58c-b857-4fff-b6dc-49dd28486e25.png)
 
+![iFollow C#](https://user-images.githubusercontent.com/113261722/198408210-b07c07c3-840a-4d70-9bb7-f3be7050c29d.png)
+
+
 
 ## Python Version, Console.
 ```This is the python version below.```
