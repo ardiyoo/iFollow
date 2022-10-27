@@ -1,6 +1,6 @@
 # iFollow
 
-iFollow is a Python writen program for Instagram to follow a specific user from multiple accounts.
+iFollow is a Python/C# writen program for Instagram to follow a specific user from multiple accounts.
 
 ## Installation
 
@@ -22,13 +22,16 @@ Everything Cool :)
 the program will exit()
 
 ```
-## Photo when everything goes ok
-1. You enter the user you want to follow,
-2. The tool login's from Accounts.txt,
-3. Check's if user exists or not from SessionID of logged in Account,
-4. Tries to follow and give's the response if good or spam or whatever,
-5. Then loggins on Account 2 and tries the same process.
+
+## C# Version with GUI.
+```This is the c# version with Graphical User Interface below.```
+![iFollow C#](https://user-images.githubusercontent.com/113261722/198407879-260ab58c-b857-4fff-b6dc-49dd28486e25.png)
+
+
+## Python Version, Console.
+```This is the python version below.```
 ![iFollow](https://user-images.githubusercontent.com/113261722/195684563-3153e62e-20b7-4415-b9a0-883a3f750905.png)
+
 
 
 ## Contributing
@@ -36,7 +39,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-## Soon...
-
-iFollow is being coded in c# with graphical user interface from ```gyxi```
-So much new good things comming, stay tuned :heart:
+Coded by gyxi with :heart:
